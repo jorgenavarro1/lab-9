@@ -6,7 +6,6 @@ function init(){
     document.getElementById('textoutput').innerHTML = text.value;
     alert("Jorge Navarro: " + text.value);
   }
-
   button.addEventListener('click', showMeText);
   }
   
